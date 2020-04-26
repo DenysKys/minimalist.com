@@ -1,0 +1,36 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	background: #fff;
+	font-family: Helvetica-neue, Helvetica, sans-serif;
+	margin: 20px;
+}
+
+.container{
+	height: 676px;
+	max-width: 520px;
+	display: block;
+	font-size: 16px;
+	line-height: 24px;
+	margin-bottom: 0px;
+	margin-left: 402.5px;
+	margin-right: 402.5px;
+	margin-top: 0px;
+	width: 520px;
+}
+
+.content{
+	max-width: 520px;
+	overflow: hidden;
+	margin: auto
+}
+
+h1{
+	font-size: 25px;
+	color: #333;
+	line-height: 24px;
+	font-weight: normal;
+}
+
